@@ -1,0 +1,3 @@
+USE NBA_sql;
+ALTER TABLE nba
+		ADD Teams VARCHAR(25) NOT NULL;
